@@ -1,0 +1,11 @@
+body{
+  background-image: url(../Img/Back.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Aa{
+  border: 1px solid black;
+}

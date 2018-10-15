@@ -1,0 +1,10 @@
+body{
+  background-image: url(../Img/Back.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.col-12{
+  margin-top: 10px;
+}
